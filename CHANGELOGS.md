@@ -2,7 +2,21 @@
 
 _note: minor changes won't be listed as they are only data changes_
 
+_join the [TCGdex discord](https://discord.gg/NehYTAhsZE)_ 🙂
+
 ## V2
+
+### 2.4
+
+### new Field
+
+- `series/{id}`, `series`: Added a `logo` field which contains an image of the first set logo
+
+### 2.3
+
+### New Data
+
+- API is now available in `English`, `French`, `Spanish`, `German`, `Italian`, `Portuguese`
 
 ### 2.2
 
